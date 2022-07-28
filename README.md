@@ -1,2 +1,2 @@
 # aprendendo-CSharp
-aula sobre a estrutura do C#
+aula sobre a estrutura do CSharp
